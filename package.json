@@ -1,0 +1,12 @@
+{
+  "name": "romani-ite-domum",
+  "version": "0.0.1",
+  "description": "A coding exercise in reading and writing roman numerals.",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
