@@ -1,5 +1,9 @@
 const toRoman = require('./roman').toRoman;
 
-test('1', () => {
-  expect(toRoman(1)).toBe('I');
+describe('Roman Numerals Functions', () => {
+
+  test('toRoman', () => {
+    expect(toRoman(1)).toBe('I');
+  });
+
 });
